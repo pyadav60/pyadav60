@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hi, I'm Prateek! 🐧
+
+### **About Me**
+- 🐝 I'm a rising 3rd Year Computational Media Student at the Georgia Institute of Technology
+- 🌱 My threads are in Games and Media, and I currently aspire to work in the games industry
+- 💖 I absolutely love digital art and gaming! My favorites include Hades, Hollow Knight, and Genshin Impact
+
+### **More Me**
+- 💼 <a href="[url](https://www.linkedin.com/in/prateek-yadav-352a211b0/)">LinkedIn</a>
+- 🖌️ <a href="[url](https://www.artstation.com/prateekyadav)">ArtStation</a>
+- 📫 pyadav60@gatech.edu
 
 <!--
 **pyadav60/pyadav60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
