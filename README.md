@@ -6,8 +6,7 @@
 - 💖 Huge fan of gaming and digital art. My favorites include Hades, Hollow Knight, Dungeons & Dragons, and Pokémon
 
 ### **"Your Github history looks a little dry buddy!"**
-- I agree!
-- Most of my coursework is hosted on a private GATech Github Enterprise
+- I agree! Most of my coursework is hosted on a private GATech Github Enterprise
 - I'm porting over repositories slowly but surely
 
 ### **More Me**
